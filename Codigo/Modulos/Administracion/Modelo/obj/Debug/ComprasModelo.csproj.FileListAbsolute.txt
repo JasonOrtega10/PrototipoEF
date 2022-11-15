@@ -1,0 +1,14 @@
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\bin\Debug\ComprasModelo.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\bin\Debug\ComprasModelo.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\obj\Debug\ComprasModelo.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\obj\Debug\ComprasModelo.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\obj\Debug\ComprasModelo.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\obj\Debug\ComprasModelo.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Modulos\Administracion\Modelo\bin\Debug\ComprasModelo.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Modulos\Administracion\Modelo\bin\Debug\ComprasModelo.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Modulos\Administracion\Modelo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Modulos\Administracion\Modelo\obj\Debug\ComprasModelo.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Modulos\Administracion\Modelo\obj\Debug\ComprasModelo.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Modulos\Administracion\Modelo\obj\Debug\ComprasModelo.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Modulos\Administracion\Modelo\obj\Debug\ComprasModelo.pdb
