@@ -1,0 +1,11 @@
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.pdb
