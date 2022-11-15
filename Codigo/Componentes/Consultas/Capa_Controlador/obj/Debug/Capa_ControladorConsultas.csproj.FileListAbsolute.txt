@@ -1,0 +1,18 @@
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_Modelo.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_Modelo.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.CopyComplete
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\FINAL\RAMAJASON2 - copia\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_Modelo.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_Modelo.pdb
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.CopyComplete
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.dll
+C:\Users\josue\Desktop\UNIVERSIDAD\SEMESTRE_8\Analisis_de_Sistemas_II\PrototipoEF\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.pdb
